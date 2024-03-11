@@ -1,0 +1,16 @@
+name: slt
+dependencies:
+  - python=3.8
+  - scikit-learn
+  - scikit-image
+  - scipy
+  - pandas
+  - numpy
+  - matplotlib
+  - jupyter
+  - tensorflow
+  - pip
+  - parso=0.7
+  - pip:
+    - treelib
+    - pathos
