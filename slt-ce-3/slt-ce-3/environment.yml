@@ -1,3 +1,5 @@
+name:
+  slt
 dependencies:
   - python=3.8
   - scikit-learn
